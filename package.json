@@ -1,5 +1,5 @@
 {
-  "name": "PharmaTrace",
+  "name": "pharmatrace",
   "version": "1.0.0",
   "description": "Un système de traçabilité des produits pharmaceutiques",
   "main": "index.js",
